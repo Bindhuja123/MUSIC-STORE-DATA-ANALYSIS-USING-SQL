@@ -10,4 +10,17 @@ This project aims to analyze a music store’s database using SQL to uncover key
 * Geographic Analysis – Identify countries generating the highest revenue.
 
 ## Key insights
-* 
+* Analyzed sales data to determine top countries with the most invoices, leading to targeted regional marketing strategies.
+* Identified the best customers based on total spending, allowing for personalized customer engagement efforts.
+* Determined top tracks and artists, aiding the promotion of popular music genres.
+* Conducted an analysis of average track lengths to refine music playlist offerings.
+* Analyzed spending patterns for customers on specific artists, which could influence artist promotions or product bundles.
+
+## SQL Skills
+* Advanced Data Aggregation: GROUP BY, COUNT(), SUM(), AVG()
+* Data Filtering & Sorting: WHERE, GROUP BY, ORDER BY, LIMIT CLAUSES
+* JOIN Operations: INNER JOIN, LEFT JOIN, RIGHT JOIN
+* Window Functions: ROW_NUMBER(), SUM(), AVG(), DENSE()
+* Subquries and CTE
+  
+
