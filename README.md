@@ -8,3 +8,6 @@ This project aims to analyze a music store’s database using SQL to uncover key
 * Employee Performance – Evaluate sales performance of employees.
 * Market Trends – Determine the most popular artists and genres across different regions.
 * Geographic Analysis – Identify countries generating the highest revenue.
+
+## Key insights
+* 
