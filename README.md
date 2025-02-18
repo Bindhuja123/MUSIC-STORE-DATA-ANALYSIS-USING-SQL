@@ -9,6 +9,8 @@ This project aims to analyze a music store’s database using SQL to uncover key
 * Market Trends – Determine the most popular artists and genres across different regions.
 * Geographic Analysis – Identify countries generating the highest revenue.
 
+## Entity Relationship Digram
+![ERD Diagram](images/ERD.pgerd.png)
 ## Key insights
 * Analyzed sales data to determine top countries with the most invoices, leading to targeted regional marketing strategies.
 * Identified the best customers based on total spending, allowing for personalized customer engagement efforts.
