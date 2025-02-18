@@ -22,7 +22,7 @@ This project aims to analyze a music store’s database using SQL to uncover key
 * Advanced Data Aggregation: COUNT(), SUM(), AVG()
 * Data Filtering & Sorting: WHERE, GROUP BY, ORDER BY, LIMIT CLAUSES
 * JOIN Operations: INNER JOIN, LEFT JOIN, RIGHT JOIN
-* Window Functions: ROW_NUMBER(), SUM(), AVG(), DENSE()
+* Window Functions: ROW_NUMBER(), DENSE()
 * Subquries and CTE
   
 
