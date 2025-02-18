@@ -17,7 +17,7 @@ This project aims to analyze a music store’s database using SQL to uncover key
 * Analyzed spending patterns for customers on specific artists, which could influence artist promotions or product bundles.
 
 ## SQL Skills
-* Advanced Data Aggregation: GROUP BY, COUNT(), SUM(), AVG()
+* Advanced Data Aggregation: COUNT(), SUM(), AVG()
 * Data Filtering & Sorting: WHERE, GROUP BY, ORDER BY, LIMIT CLAUSES
 * JOIN Operations: INNER JOIN, LEFT JOIN, RIGHT JOIN
 * Window Functions: ROW_NUMBER(), SUM(), AVG(), DENSE()
